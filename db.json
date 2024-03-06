@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "tags": [
+        "test"
+      ],
+      "content": "this is good",
+      "id": 1709749420852
+    },
+    {
+      "tags": [],
+      "content": "this is the cli app i am making",
+      "id": 1709752945399
+    },
+    {
+      "tags": [
+        "second try"
+      ],
+      "content": "this is the cli app i am making",
+      "id": 1709752959709
+    }
+  ]
+}

@@ -1,23 +1,19 @@
 {
   "notes": [
     {
-      "tags": [
-        "test"
-      ],
-      "content": "this is good",
-      "id": 1709749420852
+      "tags": [],
+      "content": "this is a test",
+      "id": 1709997223108
     },
     {
       "tags": [],
-      "content": "this is the cli app i am making",
-      "id": 1709752945399
+      "content": "i will die of these test oneday",
+      "id": 1709997254822
     },
     {
-      "tags": [
-        "second try"
-      ],
-      "content": "this is the cli app i am making",
-      "id": 1709752959709
+      "tags": [],
+      "content": "this is all a shit",
+      "id": 1709997292950
     }
   ]
 }
